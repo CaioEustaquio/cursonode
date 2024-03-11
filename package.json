@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "learnyounode": "^4.2.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "cursonode",
+  "description": "Repositório do Curso de NodeJs da Hcode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioEustaquio/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Caio Eustáquio",
+  "license": "MIT"
+}
